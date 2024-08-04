@@ -1,2 +1,11 @@
+.list-group-item{
+	background-color:red;
+	list-style:none;
+	
+	
+}
 
+.mb-3 img{
+	width:100%;
+}
 /* Your CSS Code here. */
